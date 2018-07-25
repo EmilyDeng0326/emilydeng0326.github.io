@@ -23,15 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://emilydeng0326.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://emilydeng0326.github.io/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Publications</title>
       <link>https://emilydeng0326.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
@@ -41,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks &amp; Presentation</title>
       <link>https://emilydeng0326.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
@@ -59,11 +50,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://emilydeng0326.github.io/home/projects/</link>
+      <title>Working Paper</title>
+      <link>https://emilydeng0326.github.io/home/workingpaper/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://emilydeng0326.github.io/home/projects/</guid>
+      <guid>https://emilydeng0326.github.io/home/workingpaper/</guid>
       <description></description>
     </item>
     
@@ -75,15 +66,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <guid>https://emilydeng0326.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://emilydeng0326.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://emilydeng0326.github.io/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>
