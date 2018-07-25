@@ -41,20 +41,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://emilydeng0326.github.io/home/posts/</link>
+      <title>Projects</title>
+      <link>https://emilydeng0326.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://emilydeng0326.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working Paper</title>
-      <link>https://emilydeng0326.github.io/home/workingpaper/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://emilydeng0326.github.io/home/workingpaper/</guid>
+      <guid>https://emilydeng0326.github.io/home/projects/</guid>
       <description></description>
     </item>
     
